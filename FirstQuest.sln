@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F98CF9DE-74E9-4990-9326-61B6D1B9B460}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{58DC7C26-74A6-4B31-B7E3-CE670034E067}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstQuest", "src\FirstQuest\FirstQuest.csproj", "{11478BFF-29A9-458A-BB69-637DF890365B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11478BFF-29A9-458A-BB69-637DF890365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11478BFF-29A9-458A-BB69-637DF890365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11478BFF-29A9-458A-BB69-637DF890365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11478BFF-29A9-458A-BB69-637DF890365B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11478BFF-29A9-458A-BB69-637DF890365B} = {F98CF9DE-74E9-4990-9326-61B6D1B9B460}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3457E5FD-67EF-4EAA-8FE4-B04501A656FF}
+	EndGlobalSection
+EndGlobal
